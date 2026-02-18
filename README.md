@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.jpg" alt="Hospital Management System" width="120" height="50"/>
+  <img src="public/logo.jpg" alt="Hospital Management System" width="120" height="120"/>
 </p>
 
 # 🏥 Healthcare Management System – Backend
@@ -135,7 +135,6 @@ npm run start:dev
 - Mobile app integration
 
 ---
-👨‍💻 Author
-
-Ravi
+####👨‍💻 Author
+##Ravi Shankar Singh
 Backend Developer (Node.js | NestJS | PostgreSQL)
